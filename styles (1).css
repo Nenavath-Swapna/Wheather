@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.weather {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#location {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#temperature {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#description {
+    font-size: 18px;
+}
